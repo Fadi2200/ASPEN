@@ -16,7 +16,7 @@ The methodology is applied to solve Sudoku puzzles, demonstrating significant im
 ### Evaluation Results
 The following figure illustrates our model's performance across different loss combinations in solving Sudoku puzzles:
 
-![Evaluation Results](plot.png)
+![Evaluation Results](table.png)
 
 ### Data Representation
 The table below provides a detailed representation of the Sudoku puzzles, highlighting the model's accuracy:
