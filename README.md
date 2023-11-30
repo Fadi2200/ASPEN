@@ -21,7 +21,7 @@ The following figure illustrates our model's performance across different loss c
 ### Data Representation
 The table below provides a detailed representation of the Sudoku puzzles, highlighting the model's accuracy:
 
-![Sudoku Data Representation](table.png)
+![Sudoku Data Representation](bar.png)
 
 ## Repository Structure
 - `model/`: Contains the deep learning model files and ASP integration scripts.
