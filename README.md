@@ -1,7 +1,7 @@
 # Bridging Logic and Learning: A Neural-Symbolic Approach for Enhanced Reasoning in Neural Models (ASPER)
 
 ## Overview
-This repository hosts the research work titled "Bridging Logic and Learning: A Neuro-Symbolic Framework for Enhanced Reasoning in Deep Learning Models." Under the acronym ASPEN (Answer Set Programming Enhanced Neuro-symbolic Network), our study introduces a novel approach in neural-symbolic learning, focusing on integrating Answer Set Programming (ASP) with deep learning models for enhanced logical reasoning and problem-solving capabilities.
+This repository hosts the research work titled "Bridging Logic and Learning: A Neural-Symbolic Approach for Enhanced Reasoning in Neural Models (ASPER)." Under the acronym ASPEr (Answer Set Programming  Enhanced Reasoning),  it integrates Answer Set Programming (ASP) with a neural model for enhanced logical reasoning and problem-solving capabilities.
 
 ## Contributions
 Our research contributes to the field in several key areas:
@@ -30,7 +30,9 @@ The table below provides a detailed representation of the Sudoku puzzles, highli
 - `README.md`: This file, providing an overview and guide to the repository.
 
 ## Usage
-Instructions for replicating our study or applying the ASPEN framework to other problem domains can be found in the `model/` directory.
-
+- Download the ASPEN.ipynb notebook from the repository.
+- Open the notebook in Google Colab for optimal performance.
+- Execute the cells in ASPEN.ipynb in sequential order.
+**Note:** Running the cells sequentially is crucial for the correct execution of the notebook. Google Colab is recommended due to its pre-configured environment and easy access to necessary libraries."
 ## Citation
 If you find our research useful, please consider citing our paper:
