@@ -1,4 +1,4 @@
-# RIDGING LOGIC AND LEARNING: A NEURAL-SYMBOLIC APPROACH FOR ENHANCED REASONING IN NEURAL MODELS (ASPEN)
+# Bridging Logic and Learning: A Neural-Symbolic Approach for Enhanced Reasoning in Neural Models (ASPER)
 
 ## Overview
 This repository hosts the research work titled "Bridging Logic and Learning: A Neuro-Symbolic Framework for Enhanced Reasoning in Deep Learning Models." Under the acronym ASPEN (Answer Set Programming Enhanced Neuro-symbolic Network), our study introduces a novel approach in neural-symbolic learning, focusing on integrating Answer Set Programming (ASP) with deep learning models for enhanced logical reasoning and problem-solving capabilities.
