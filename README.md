@@ -39,9 +39,7 @@ If you find our research useful, please consider citing our paper:
 
 
 
-@misc{machot2023bridging,
-
-      title={Bridging Logic and Learning: A Neural-Symbolic Approach for Enhanced Reasoning in Neural Models (ASPER)}, 
+@misc{machot2023bridging, title={Bridging Logic and Learning: A Neural-Symbolic Approach for Enhanced Reasoning in Neural Models (ASPER)}, 
       
       author={Fadi Al Machot},
       
