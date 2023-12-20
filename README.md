@@ -36,3 +36,11 @@ The table below provides a detailed representation of the Sudoku puzzles, highli
 **Note:** Running the cells sequentially is crucial for the correct execution of the notebook. Google Colab is recommended due to its pre-configured environment and easy access to necessary libraries."
 ## Citation
 If you find our research useful, please consider citing our paper:
+@misc{machot2023bridging,
+      title={Bridging Logic and Learning: A Neural-Symbolic Approach for Enhanced Reasoning in Neural Models (ASPER)}, 
+      author={Fadi Al Machot},
+      year={2023},
+      eprint={2312.11651},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
