@@ -37,7 +37,9 @@ The table below provides a detailed representation of the Sudoku puzzles, highli
 ## Citation
 If you find our research useful, please consider citing our paper:
 
+
 @misc{machot2023bridging,
+
       title={Bridging Logic and Learning: A Neural-Symbolic Approach for Enhanced Reasoning in Neural Models (ASPER)}, 
       
       author={Fadi Al Machot},
