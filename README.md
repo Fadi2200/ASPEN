@@ -23,11 +23,6 @@ The table below provides a detailed representation of the Sudoku puzzles, highli
 
 ![Sudoku Data Representation](bar.png)
 
-## Repository Structure
-- `model/`: Contains the deep learning model files and ASP integration scripts.
-- `data/`: Sample datasets used for the Sudoku case study.
-- `results/`: Results and analysis reports, including the images `plot.png` and `table.png`.
-- `README.md`: This file, providing an overview and guide to the repository.
 
 ## Usage
 - Download the ASPEN.ipynb notebook from the repository.
